@@ -10,7 +10,7 @@ Linfang Zheng is a PhD student in Computer Science at the University of Birmingh
 
 Her research insterets include robust methods fro computer vision and robotics, with a specialization in visual 6D object pose estimation and tracking.
 
-For a full CV, download the [pdf](https://linfangzheng.github.io/files/CV.pdf). Last updated on 04/2024.
+For a full CV, download the [pdf](https://lynne-zheng-linfang.github.io/files/CV.pdf). Last updated on 04/2024.
 
 
 News
