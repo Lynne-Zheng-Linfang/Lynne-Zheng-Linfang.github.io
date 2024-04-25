@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-03-01-QLearning
 excerpt: 'This paper studies Q-learning for quadratic regulation problem of switched linear systems. Inspired by the analytical results from classical model-based optimal control, a structured Q-learning algorithm is developed.'
 date: 2020-03-01
-venue: 'American Control Conference (ACC)'
+venue: 'the American Control Conference (ACC)'
 paperurl: ''
 citation: 'H. Chen, L. Zheng and W. Zhang, "Optimal Control Inspired Q-Learning for Switched Linear Systems," 2020 American Control Conference (ACC), Denver, CO, USA, 2020, pp. 4003-4010, doi: 10.23919/ACC45564.2020.9147818.'
 ---
