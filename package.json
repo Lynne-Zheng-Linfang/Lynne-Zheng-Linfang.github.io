@@ -1,19 +1,19 @@
 {
   "name": "academic-pages",
   "version": "0.8.1.1",
-  "description": "Academic Pages Mistakes Jekyll theme npm build scripts",
+  "description": "Academic Pages for Linfang Zheng",
   "repository": {
     "type": "git",
-    "url": "https://github.com/academicpages/academicpages.github.io"
+    "url": "https://github.com/lynne-linfang-zheng/lynne-linfang-zheng.github.io"
   },
   "keywords": [
-    "jekyll",
-    "theme",
-    "minimal"
+    "linfang zheng",
+    "university of birmingham",
+    "computer vision",
+    "robotics"
   ],
   "contributors": [
-    "Michael Rose",
-    "Robert Zupko"
+    "Linfang Zheng"
   ],
   "license": "MIT",
   "bugs": {
