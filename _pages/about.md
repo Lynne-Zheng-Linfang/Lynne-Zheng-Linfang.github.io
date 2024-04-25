@@ -16,13 +16,11 @@ For a full CV, download the [pdf](https://lynne-zheng-linfang.github.io/files/CV
 News
 ======
  
-<ul>
-  <li><strong>[02/2024] One paper</strong> is accepted to <strong>CVPR 2024</strong>!</li>
-  <li><strong>[01/2024] One paper</strong> is accepted to <strong>ICRA 2024</strong>!</li>
-  <li><strong>[05/2023] One paper</strong> is accepted to <strong>CVPR 2023 Workshop</strong>!</li>
-  <li><strong>[02/2023] One paper</strong> is accepted to <strong>CVPR 2023</strong>!</li>
-  <li><strong>[07/2022] One paper</strong> is accepted to <strong>ECCV 2022 Workshop</strong>!</li>
-  <li><strong>[01/2022] One paper</strong> is accepted to <strong>ICRA 2022</strong></li>
-  <li><strong>[01/2020] One paper</strong> is accepted to <strong>ACC 2020</strong>!</li>
-</ul>
+ * [02/2024] **One paper** is accepted to **CVPR 2024 with [project page](https://lynne-zheng-linfang.github.io/georef.github.io/)!**
+ * [01/2024] **One paper** is accepted to **ICRA 2024!**
+ * [05/2023] **One paper** is accepted to **CVPR 2023 Workshop!**
+ * [02/2023] **One paper** is accepted to **CVPR 2023 with [project page](https://lynne-zheng-linfang.github.io/hspose.github.io/)!**
+ * [07/2022] **One paper** is accepted to **ECCV 2022 Workshop!**
+ * [01/2022] **One paper** is accepted to **ICRA 2022 with [project page](https://lynne-zheng-linfang.github.io/TP-AE.github.io/)!**
+ * [01/2020] **One paper** is accepted to **ACC 2020!**
 
