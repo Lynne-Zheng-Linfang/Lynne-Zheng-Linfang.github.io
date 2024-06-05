@@ -19,7 +19,7 @@ News
  * [02/2024] **One paper** is accepted to **CVPR 2024 with [project page](https://lynne-zheng-linfang.github.io/georef.github.io/)!**
  * [01/2024] **One paper** is accepted to **ICRA 2024!**
  * [05/2023] **One paper** is accepted to **CVPR 2023 with [project page](https://lynne-zheng-linfang.github.io/hspose.github.io/)!**
- * [05/2023] **One paper** is accepted to **CVPR 2023 Workshop!**
+ * [05/2023] **One paper** is accepted to **CVPR 2023 Workshop [Best Paper Award]!**
  * [07/2022] **One paper** is accepted to **ICRA 2022 with [project page](https://lynne-zheng-linfang.github.io/TP-AE.github.io/)!**
  * [07/2022] **One paper** is accepted to **ECCV 2022 Workshop!**
  * [01/2020] **One paper** is accepted to **ACC 2020!**
