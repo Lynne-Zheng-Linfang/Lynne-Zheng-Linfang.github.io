@@ -10,13 +10,14 @@ redirect_from:
 
 She holds bachelor’s and master’s degrees in **Microelectronics** from **Harbin Institute of Technology**, China, and previously worked as an **embedded hardware engineer at DJI**, gaining practical experience in real-world system deployment.
 
-Her research interests center on **robust and generalizable methods** for **computer vision** and **robotics**, with a focus on **6D object pose estimation and tracking**, **vision-language-guided robotic manipulation**, **depth completio**n, and **multi-modal learning**.
+Her research interests center on **robust and generalizable methods** for **computer vision** and **robotics**, with a focus on **6D object pose estimation and tracking**, **vision-language-guided robotic manipulation**, **depth completion**, and **multi-modal learning**.
 
 [Download full CV (pdf)](https://lynne-zheng-linfang.github.io/files/CV.pdf). Last updated on 05/2025.
 
 
 News
 ======
+ * [08/2025] **One paper** is accepted to **CoRL 2025!**
  * [02/2025] **One paper** is accepted to **AAAI 2025!**
  * [02/2024] **One paper** is accepted to **CVPR 2024 with [project page](https://lynne-zheng-linfang.github.io/georef.github.io/)!**
  * [01/2024] **One paper** is accepted to **ICRA 2024!**
