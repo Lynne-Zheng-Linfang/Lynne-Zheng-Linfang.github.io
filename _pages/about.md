@@ -12,18 +12,20 @@ She holds bachelor’s and master’s degrees in **Microelectronics** from **Har
 
 Her research interests center on **robust and generalizable methods** for **computer vision** and **robotics**, with a focus on **6D object pose estimation and tracking**, **vision-language-guided robotic manipulation**, **depth completion**, and **multi-modal learning**.
 
-[Download full CV (pdf)](https://lynne-zheng-linfang.github.io/files/CV.pdf). Last updated on 05/2025.
+[Download full CV (pdf)](https://lynne-zheng-linfang.github.io/files/CV.pdf). Last updated on 11/2025.
 
 
 News
 ======
- * [08/2025] **One paper** is accepted to **CoRL 2025!**
- * [02/2025] **One paper** is accepted to **AAAI 2025!**
- * [02/2024] **One paper** is accepted to **CVPR 2024 with [project page](https://lynne-zheng-linfang.github.io/georef.github.io/)!**
- * [01/2024] **One paper** is accepted to **ICRA 2024!**
- * [05/2023] **One paper** is accepted to **CVPR 2023 with [project page](https://lynne-zheng-linfang.github.io/hspose.github.io/)!**
- * [05/2023] **One paper** is accepted to **CVPR 2023 Workshop [Best Paper Award]!**
- * [07/2022] **One paper** is accepted to **ICRA 2022 with [project page](https://lynne-zheng-linfang.github.io/TP-AE.github.io/)!**
- * [07/2022] **One paper** is accepted to **ECCV 2022 Workshop!**
- * [01/2020] **One paper** is accepted to **ACC 2020!**
+ * **[08/2025]** One paper is accepted to **CoRL 2025**!
+ * **[02/2025]** One paper is accepted to **AAAI 2025**!
+ * **[01/2025]** Joined **Prof. Jia Pan’s group** as a **Postdoctoral Fellow** at **The University of Hong Kong**!
+ * **[10/2024]** Completed **PhD** at the **University of Birmingham**!
+ * **[02/2024]** One paper accepted to **CVPR 2024** — see the [project page](https://lynne-zheng-linfang.github.io/georef.github.io/)!
+ * **[01/2024]** One paper accepted to **ICRA 2024**!
+ * **[05/2023]** One paper accepted to **CVPR 2023** — see the [project page](https://lynne-zheng-linfang.github.io/hspose.github.io/)!
+ * **[05/2023]** One paper accepted to the **CVPR 2023 Workshop — Best Paper Award**!
+ * **[07/2022]** One paper accepted to **ICRA 2022** — see the [project page](https://lynne-zheng-linfang.github.io/TP-AE.github.io/)!
+ * **[07/2022]** One paper accepted to the **ECCV 2022 Workshop**!
+ * **[01/2020]** One paper is accepted to **ACC 2020**!
 
