@@ -18,7 +18,7 @@ Her research interests center on **robust and generalizable methods** for **comp
 News
 ======
  * **[04/2026]** One paper is accepted to **RAL 2026**!
- * **[08/2025]** One paper is accepted to **CoRL 2025**!
+ * **[08/2025]** One paper is accepted to **CoRL 2025**! — see the [project page]([https://clearlab-sustech.github.io/gvf-tape/])!
  * **[02/2025]** One paper is accepted to **AAAI 2025**!
  * **[01/2025]** Joined **Prof. Jia Pan’s group** as a **Postdoctoral Fellow** at **The University of Hong Kong**!
  * **[10/2024]** Completed **PhD** at the **University of Birmingham**!
