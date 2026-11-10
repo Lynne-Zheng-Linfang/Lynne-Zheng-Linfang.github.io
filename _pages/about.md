@@ -12,11 +12,13 @@ She holds bachelor’s and master’s degrees in **Microelectronics** from **Har
 
 Her research interests center on **robust and generalizable methods** for **computer vision** and **robotics**, with a focus on **6D object pose estimation and tracking**, **vision-language-guided robotic manipulation**, **depth completion**, and **multi-modal learning**.
 
-[Download full CV (pdf)](https://lynne-zheng-linfang.github.io/files/CV.pdf). Last updated on 11/2025.
+**She is actively seeking faculty opportunities in robotics, embodied AI, and related fields.**
+[Download full CV (pdf)](https://lynne-zheng-linfang.github.io/files/CV.pdf). Last updated on 11/2026.
 
 
 News
 ======
+ * **[08/2026]** One paper is accepted to **IROS Workshop 2026**!
  * **[06/2026]** One paper is accepted to **IROS 2026**!
  * **[04/2026]** One paper is accepted to **RAL 2026**!
  * **[08/2025]** One paper is accepted to **CoRL 2025**! — see the [project page](https://clearlab-sustech.github.io/gvf-tape/)!
