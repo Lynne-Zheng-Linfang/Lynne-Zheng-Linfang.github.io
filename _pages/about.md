@@ -13,7 +13,7 @@ She holds bachelor’s and master’s degrees in **Microelectronics** from **Har
 Her research interests center on **robust and generalizable methods** for **computer vision** and **robotics**, with a focus on **6D object pose estimation and tracking**, **vision-language-guided robotic manipulation**, **depth completion**, and **multi-modal learning**.
 
 **She is actively seeking faculty opportunities in robotics, embodied AI, and related fields.**
-[Download full CV (pdf)](https://lynne-zheng-linfang.github.io/files/CV.pdf). Last updated on 11/2026.
+[Download full CV (pdf)](https://lynne-zheng-linfang.github.io/files/CV_Linfang_Zheng_Public.pdf). Last updated on 11/2026.
 
 
 News
